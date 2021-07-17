@@ -1,7 +1,7 @@
 // configuration
 var quote = "I wish your birthday is the happiest..."
-var birthdaywishee = "Happy Birthday, Michael!"
-var birthdaywisher = "- Sujal Goel"
+var birthdaywishee = "Tanti auguri, Marta!"
+var birthdaywisher = "<3"
 
 if (quote.length > 50) {
     document.getElementById('quote').innerHTML = "“I wish your birthday is the happiest”"
