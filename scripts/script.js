@@ -1,7 +1,7 @@
 // configuration
-var quote = "La pagina è stata trovata..."
+var quote = "La pagina è stata trovata... per i tuoi trent'anni."
 var birthdaywishee = "Tanti auguri, Marta!"
-var birthdaywisher = "...per i tuoi trent'anni"
+var birthdaywisher = "<<cliccami>>"
 
 if (quote.length > 50) {
     document.getElementById('quote').innerHTML = "“I wish your birthday is the happiest”"
